@@ -1,0 +1,3 @@
+﻿  ttreetable.cpp
+C:\Users\bfghb\Documents\Tables Лаба\Tables-master\Tables\ttreetable.cpp(77): warning C4715: TTreeTable::InsRecord: значение возвращается не при всех путях выполнения
+  Tables Lab.vcxproj -> C:\Users\bfghb\source\repos\Tables Lab\Debug\Tables Lab.exe
